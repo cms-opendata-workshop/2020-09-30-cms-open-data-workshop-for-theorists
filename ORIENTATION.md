@@ -47,9 +47,9 @@ And for those who are already familiar with root, take note that we will use som
 such as root data frames, which you will be delighted to learn of!
 
 The second, analysis step can be done in the CMS open data virtual environment (whether VM or docker) 
-or by passing the output files to you local setup and analysing them there. 
+or by passing the output files to your local setup and analysing them there. 
 If you are familiar with root and have it installed on your local system, you may prefer doing it there. 
-In this case, check the root pre-exercise to be sure that you have the right root version used in the analysis example.
+In this case, check the root pre-exercise to be sure that you have the right root version used in the open data analysis example.
 
 ## Different operating system
 
@@ -73,7 +73,7 @@ Here we list some features which may help you in choosing between these two comp
 
 VM:
 - is quick to start, and only requires installation of a hypervisor program on your computer.
-- opens root GUI without problems in all OS (including Windows)
+- opens root GUI without problems in all OS (including Windows) so you can see what you are plotting
 - can be cumbersome to use (slow response)
 - is good to get a first touch with CMS open data or small-scale analysis, but is not practical when analysing large amounts of data.
 
